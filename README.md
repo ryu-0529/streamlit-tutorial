@@ -6,7 +6,7 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/あなたのユーザー名/streamlit-tutorial.git
+git clone https://github.com/ryu-0529/streamlit-tutorial.git
 
 # 依存パッケージのインストール
 pip install -r requirements.txt
