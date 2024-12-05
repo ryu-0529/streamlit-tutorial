@@ -8,8 +8,8 @@
 # リポジトリのクローン
 git clone https://github.com/ryu-0529/streamlit-tutorial.git
 
-# 依存パッケージのインストール
-pip install -r requirements.txt
+# 必要なパッケージのインストール
+pip install streamlit pandas numpy plotly
 
 # アプリケーションの実行
 streamlit run app.py
